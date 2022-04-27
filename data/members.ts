@@ -180,7 +180,7 @@ export const members = [
     members: [
       {
         name: "S. Shrikirti",
-        role: "Senior Member",
+        role: "Member",
         src: "/images/members/Shrikirti.png",
       },
       {
